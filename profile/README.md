@@ -1,5 +1,3 @@
-# Coming Soon
-
 # Project Overview
 
 Dial.WTF revolutionizes Web3 communication with wallet-to-wallet audio
